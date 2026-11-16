@@ -1,0 +1,13 @@
+name = "Japaniture"
+filename = "japanituremod-forge-4.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ef44e47a84fa485ae8d04bad23a79e565c9fd22a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9415142
+project-id = 1243528

@@ -1,0 +1,13 @@
+name = "IdeaMineCreator's Gaming Furniture"
+filename = "gamingfurniture-g5-x128-forge-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ebe0d31aeb4dbbc0a690e7ec34f4dde07a4f6c6f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6012375
+project-id = 861341

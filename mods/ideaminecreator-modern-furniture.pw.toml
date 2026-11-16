@@ -1,0 +1,13 @@
+name = "IdeaMineCreator's Modern Furniture"
+filename = "modernfurniture-e5-x128-forge-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b16f69cc3a0d0ed2162ca5c11550580062c610b0"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6012380
+project-id = 1101376
