@@ -1,0 +1,13 @@
+name = "Station Decoration"
+filename = "MSD-forge-1.20.1-4.0.5-1.4.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "eaef2dc0b5a21cc5449dbb614f6393f25b1ee628"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8306988
+project-id = 790307

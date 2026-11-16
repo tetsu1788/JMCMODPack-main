@@ -1,0 +1,13 @@
+name = "MTR Map Overlay"
+filename = "CRTools-MTR-Map-Overlay-1.6.0-MC1.20.1-MTR4.0.5-forge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9fc7b017c9ecc7a7b611c6811d6bf7f5a0734be7"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9555113
+project-id = 1710757

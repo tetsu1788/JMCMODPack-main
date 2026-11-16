@@ -1,0 +1,13 @@
+name = "ModernJapanCity"
+filename = "ModernJapanCity-Forge-1.20.1-1.0.8.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5a991db52ed617e8ca96811c5ba365f030e3da79"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6314891
+project-id = 1114661

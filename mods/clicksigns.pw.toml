@@ -1,0 +1,13 @@
+name = "ClickSigns"
+filename = "ClickSigns-2.0-beta-7-1.20.1-forge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9351db194d47dd53c70e14682b4b8268e493c1b8"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9528596
+project-id = 1161795

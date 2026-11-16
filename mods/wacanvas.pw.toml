@@ -1,0 +1,13 @@
+name = "WaCanvas 画像貼り付け"
+filename = "wacanvas-forge-1.20.1-1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f32d827f9d172336da57c8a924a4095f174134c4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8885202
+project-id = 1696882

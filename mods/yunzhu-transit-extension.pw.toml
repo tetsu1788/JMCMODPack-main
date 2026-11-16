@@ -1,0 +1,13 @@
+name = "Yunzhu Transit Extension"
+filename = "Yunzhu-Transit-Extension-forge-1.0.2-prerelease.3+1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "57554593f20dc4e323b6293364165474478a89c1"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8766595
+project-id = 1421375

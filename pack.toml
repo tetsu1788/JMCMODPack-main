@@ -1,0 +1,13 @@
+name = "JMC MTR MOD Pack"
+author = "tetsu"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "b1451c16f00ffd6f1ea73ee0c192bd097c7f17838e2fa0f46ccbd7e460296ef7"
+
+[versions]
+forge = "47.4.29"
+minecraft = "1.20.1"

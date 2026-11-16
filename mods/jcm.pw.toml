@@ -1,0 +1,13 @@
+name = "MTR: JCM"
+filename = "JCM-forge-2.3.0-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0bd53592434bbd9b0d12db0274b870bc9563cbe0"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9506263
+project-id = 1316710

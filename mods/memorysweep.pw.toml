@@ -1,0 +1,13 @@
+name = "MemorySweep"
+filename = "memorysweep-universal-3.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ddb2525a2e29d937673510e171825cb0f1702547"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9089782
+project-id = 784959

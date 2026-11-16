@@ -1,0 +1,13 @@
+name = "Discord & Chat Images"
+filename = "discord_chat_mod-forge-1.20.1-2.8.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "05ceab9368566415aaeb56feac62f62dd4bda90b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8768886
+project-id = 1198238

@@ -1,0 +1,13 @@
+name = "Infinite Night Vision [NEO/FORGE/FABRIC]"
+filename = "InfiniteNighVision-1.20.1-NEOFORGE.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "250d67b1ff3db53767c8a42ab84b85b08899518b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4726283
+project-id = 892132

@@ -1,0 +1,13 @@
+name = "Modernxl 2 furniture mod: In Survival ! (Discontinued)"
+filename = "ModernxlSurvival_1.3.2_v1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a038ed2d5b0d159888892690ed590d3e3c376a0f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5865438
+project-id = 944085

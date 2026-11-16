@@ -1,0 +1,309 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "5e9edd1fd2395f14a0c8a4acbdbdd61e1047be1f0033deb3140d2ce0d093e9d8"
+metafile = true
+
+[[files]]
+file = "mods/asphalt_revisioned-1.1.0-forge-1.20.1.jar"
+hash = "415b2a4c5fa470271462ba89c88a83e7d7bfd263ac40dd0f7d87a31ebc282525"
+
+[[files]]
+file = "mods/clicksigns.pw.toml"
+hash = "64e2f72ec6d08e34881fb1048e0718daac15cea750849e436a79dd2dd77bfd1d"
+metafile = true
+
+[[files]]
+file = "mods/discord-chat-connect.pw.toml"
+hash = "bc81a5348005916103ecacc6b1c70f67ee5e55832252e7a31c2fd2a0d383a217"
+metafile = true
+
+[[files]]
+file = "mods/effortless-building.pw.toml"
+hash = "947e2f2067ecfad11b6fef94b6fc8e1e94ce8eeb89ed66a2ad663d6fc27b08cc"
+metafile = true
+
+[[files]]
+file = "mods/embeddium.pw.toml"
+hash = "a1575677daaaf6ea6dac12e5a10073e34025e5ca2c35b6d36ad4a5a0edbc0e82"
+metafile = true
+
+[[files]]
+file = "mods/ferritecore.pw.toml"
+hash = "5bd0506bc0be25116b234f2b5af9447f60d82ae1cb6c5be4e12d8841f6c2501c"
+metafile = true
+
+[[files]]
+file = "mods/forgified-fabric-api.pw.toml"
+hash = "b5dfc1ed07de5e850c30f4277412ee8e85e9d21c17f168bd8adf2bfa95ae664c"
+metafile = true
+
+[[files]]
+file = "mods/framedblocks.pw.toml"
+hash = "a06a97ba002c875926da3c83ef2027388c4e8a66e01b8bf1fd3d69be54bd6e64"
+metafile = true
+
+[[files]]
+file = "mods/geckolib.pw.toml"
+hash = "898fd2704dd260ae8f3dc20b4416439751f0a9e76367c4f0bbdac886b6987802"
+metafile = true
+
+[[files]]
+file = "mods/handcrafted.pw.toml"
+hash = "b9a7e71472f5f88229bf2f9e214b223b3900052bdc56075906d7a22acf74568c"
+metafile = true
+
+[[files]]
+file = "mods/ideaminecreator-gaming-furniture.pw.toml"
+hash = "14725e7d3b072471c6b848cac31b5ce9ff2d841ee54e8441ebb2f03668235669"
+metafile = true
+
+[[files]]
+file = "mods/ideaminecreator-modern-furniture.pw.toml"
+hash = "dc628234a4ee8a0e3f905572a59db0bf93b56e5836629805d56bba1f13ad49db"
+metafile = true
+
+[[files]]
+file = "mods/immediatelyfast.pw.toml"
+hash = "88396b3f04853c2cab8b7932757a3020aa8b1d266e7ee69a2b208908d3a44ada"
+metafile = true
+
+[[files]]
+file = "mods/infinite-night-vision.pw.toml"
+hash = "1e3f6e2f9eade41c4dc146ca7e51964352bfba33e55ad12841debfffe2e1e89e"
+metafile = true
+
+[[files]]
+file = "mods/japanish.pw.toml"
+hash = "6482879affe2cf8b4b0082e74b9dacfd29119640580525c311aae0c27c67cf9f"
+metafile = true
+
+[[files]]
+file = "mods/japanituremod.pw.toml"
+hash = "c5c573408d20f60c5f50cff5013a171f66965382432af0777ceba989c61f4a0d"
+metafile = true
+
+[[files]]
+file = "mods/japansuburbia.pw.toml"
+hash = "21fe0232b703dcb2be079a402ef4d44c03a4f40af06e6e1bd6b4eae1f833ad37"
+metafile = true
+
+[[files]]
+file = "mods/jcm.pw.toml"
+hash = "e9bb4ded8801b3234d1c98353e49ef4b81d2f5425ac18770a77bcea64449c021"
+metafile = true
+
+[[files]]
+file = "mods/journeymap.pw.toml"
+hash = "26ec78413f9137bd84027fe34662ee5dfe167f8e2009d2d72b9a3104ae675d78"
+metafile = true
+
+[[files]]
+file = "mods/kaminari-motor-works.pw.toml"
+hash = "3b95b426736fd5aad6e1e94b9a82cb25c0713168c0b8cf7ef0e77d28e3d31a82"
+metafile = true
+
+[[files]]
+file = "mods/macaws-bridges.pw.toml"
+hash = "48fd7031ccf8ecf2e16bddad85f5e53348137477ab465fb75cfd71fddc81bccc"
+metafile = true
+
+[[files]]
+file = "mods/macaws-doors.pw.toml"
+hash = "dedd63a029e779fa904ae374de5dea1d655bb5527701fe262f8bea2a0c1d0d3d"
+metafile = true
+
+[[files]]
+file = "mods/macaws-fences-and-walls.pw.toml"
+hash = "754a03e5f088d19287fe2f25b7b3165dd4e44e294838c679b218fcac54a11b5b"
+metafile = true
+
+[[files]]
+file = "mods/macaws-furniture.pw.toml"
+hash = "3706f6817a641198fc325d578d189d502af7c3444148a72e4dc23f214c3611a1"
+metafile = true
+
+[[files]]
+file = "mods/macaws-holidays.pw.toml"
+hash = "860ca7ae384e490703e24592d4ec2b5b487612ddc80a7316ee3809fb8d303dc5"
+metafile = true
+
+[[files]]
+file = "mods/macaws-lights-and-lamps.pw.toml"
+hash = "9662a11bbab322c2c29d84bf88d0a6c11e3dbfc2e996a484fa1a1ef2f91a18ad"
+metafile = true
+
+[[files]]
+file = "mods/macaws-paintings.pw.toml"
+hash = "17711f089f8088e654f7bb3bdfd27f350a541e7f62626db38873c01f64163c37"
+metafile = true
+
+[[files]]
+file = "mods/macaws-paths-and-pavings.pw.toml"
+hash = "e1b4f834c2a9bbcc9ea812fc0658e62b0696b8f77dc2f6ab54568d7b8059b2a5"
+metafile = true
+
+[[files]]
+file = "mods/macaws-roofs.pw.toml"
+hash = "6445161fb93a765e776f97573a32af44d0615133b76f33d56da1b842eb5fc377"
+metafile = true
+
+[[files]]
+file = "mods/macaws-stairs.pw.toml"
+hash = "9906e6412e0dbce8a80dad82699d576f95c04cc4574e636705d9ac3e6686b0a2"
+metafile = true
+
+[[files]]
+file = "mods/macaws-trapdoors.pw.toml"
+hash = "11986efbe41daab0d11c8d3cbdd517976314f9bff79c9ce769aab851329bf485"
+metafile = true
+
+[[files]]
+file = "mods/macaws-windows.pw.toml"
+hash = "8ee3776430187fb4d69278e645e10fefb7fe7342caee0a5861479ce25956713a"
+metafile = true
+
+[[files]]
+file = "mods/memorysweep.pw.toml"
+hash = "bbe1e2d9ef01b61df4cb3ed35f6342a3462112510f3eb98cfbb939d8800a6c9f"
+metafile = true
+
+[[files]]
+file = "mods/minecraft-transit-railway.pw.toml"
+hash = "c35c1305bd85eed300a922fabb6e438cd83d32bc009ee6d0c0062fa9e5c5acd5"
+metafile = true
+
+[[files]]
+file = "mods/minecraft-transport-simulator.pw.toml"
+hash = "d37ddffde63305d0aa038b4ef2286723fbd2aa661c5123b4efac4c9cf70c46bb"
+metafile = true
+
+[[files]]
+file = "mods/modernfix.pw.toml"
+hash = "acc876b088c1e1208ac1a7494794060534ff4647411eae7139295a68fd0a48cd"
+metafile = true
+
+[[files]]
+file = "mods/modernjapancity.pw.toml"
+hash = "b759ea9e9c945eef522b751c218e400e4ee8a0627adbf2e21537f85a912721a6"
+metafile = true
+
+[[files]]
+file = "mods/modernxl-2-in-survival.pw.toml"
+hash = "f9e912f715102b7c3b52caf4484a80e9fd8b5c7362475aa9a2da7e806d605610"
+metafile = true
+
+[[files]]
+file = "mods/mouse-tweaks.pw.toml"
+hash = "e72f73611904e14d915418f0e3c6cb483cdc600e211375c2eceb393fec5b80f1"
+metafile = true
+
+[[files]]
+file = "mods/mtr-japan-ticket-mod-1.20.1-6.1.0.jar"
+hash = "f7babeb429a672fd35e288585e33cd730da1daa2eb6e661735b400abfa3af8d3"
+
+[[files]]
+file = "mods/mtr-london-underground-trains.pw.toml"
+hash = "d49dc84c3cb07983fcca745fa9658bdff4d9a90b3532642ca7962bbb40a1fecc"
+metafile = true
+
+[[files]]
+file = "mods/mtr-map-overlay.pw.toml"
+hash = "b4203da779da2ef88a43fd6f3a2c630ac6002fd5bc76770f98e2167bf72332aa"
+metafile = true
+
+[[files]]
+file = "mods/oculus.pw.toml"
+hash = "5ef885f9912ff6aa73db254b63a3cd22520f06261bc3c38e7c92f449806a9044"
+metafile = true
+
+[[files]]
+file = "mods/phone-mc-device.pw.toml"
+hash = "52d52b6b948d130f6b2dd2091a705e78ad8017fe324fb8de9eaba7f468304a14"
+metafile = true
+
+[[files]]
+file = "mods/project-1029454.pw.toml"
+hash = "b4b74b7292223d98fe08a1cdb74f716472476150ab7b284bf143a5f7cfc0f9dc"
+metafile = true
+
+[[files]]
+file = "mods/radium-reforged.pw.toml"
+hash = "77fa86d36ada0d178545853f987f9e71128e1833c9c29ae62c436c09bdb31948"
+metafile = true
+
+[[files]]
+file = "mods/resourceful-lib.pw.toml"
+hash = "ef0264b7d819848f72ab2f34643306187e712965a8246e1f733e1bd39d8fd681"
+metafile = true
+
+[[files]]
+file = "mods/saturn.pw.toml"
+hash = "f9be8361c39f91dce80420324ac45290a990e8178b83df6bdaa8d69f2c7aa8d4"
+metafile = true
+
+[[files]]
+file = "mods/simply-light.pw.toml"
+hash = "762eced5d260cdbc94f0acc033efd8fe70fdfe5a28bd8d180e0b052de509893f"
+metafile = true
+
+[[files]]
+file = "mods/sinytra-connector.pw.toml"
+hash = "64cf14d53ff31c4f85919a7ccef310a6ba26474b872ddaccabb7a65e6fa29e8a"
+metafile = true
+
+[[files]]
+file = "mods/smooth-boot-reloaded.pw.toml"
+hash = "8b001d223c2458eed8970eb699974cb73d93b75c6ceee62b5f61be85913b98ac"
+metafile = true
+
+[[files]]
+file = "mods/station-decoration.pw.toml"
+hash = "676dc3018ac63863750f37fe9422587c0f9a3cd6feb4ac960f6966cf99d3841c"
+metafile = true
+
+[[files]]
+file = "mods/tacz-lesraisins-tactical-equipements.pw.toml"
+hash = "443141778964b38ccf6e03beecc91775d1c62fdb2e09be82fdd5b1452717d2f3"
+metafile = true
+
+[[files]]
+file = "mods/the-tube.pw.toml"
+hash = "20395ea5ff447ffa4539019d73efd596059e26f42007d056cbc5002a6c5a375c"
+metafile = true
+
+[[files]]
+file = "mods/timeless-and-classics-zero.pw.toml"
+hash = "0232e47f947fea9f55b01af5df7c3e3334bd95e6f37455ece4048c19ea8014f0"
+metafile = true
+
+[[files]]
+file = "mods/transport-simulator-official-vehicle-set.pw.toml"
+hash = "fd5edfd59aadb46cf1316882ee7333503f4fd6ef71e375bb5df005c2a37bece9"
+metafile = true
+
+[[files]]
+file = "mods/wablock.pw.toml"
+hash = "89260ce1c5b9e1cb577bcb8738b553a0f3f4c5621be9ec4445ab4f0fd19e5489"
+metafile = true
+
+[[files]]
+file = "mods/wacanvas.pw.toml"
+hash = "c0b113edbbf0572748d90409f3bc9cfebfc7cfb42a42184d97968978eb655205"
+metafile = true
+
+[[files]]
+file = "mods/worldedit.pw.toml"
+hash = "bd1dc13316e2aa9b56c89e7e974057f8da8d6bbfe707ba4210109fc612b782e3"
+metafile = true
+
+[[files]]
+file = "mods/yunzhu-transit-extension.pw.toml"
+hash = "5a9b989cb415ea1e6842272c24b1c920b65e3f5c354e8a786256798ec6c0078c"
+metafile = true
+
+[[files]]
+file = "mods/yuushya-townscape.pw.toml"
+hash = "06bdf7a72751fcdfe0b6f517f9c497bb25045663994359e84c9ba9817d26625b"
+metafile = true
