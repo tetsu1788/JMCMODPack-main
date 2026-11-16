@@ -1,13 +1,13 @@
-name = "ClickSigns"
-filename = "ClickSigns-2.0-beta-7-1.20.1-forge.jar"
+name = "Click Signs"
+filename = "ClickSigns-2.0+1.20.1-forge.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "9351db194d47dd53c70e14682b4b8268e493c1b8"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/xaXWiLzT/versions/d6iAfx85/ClickSigns-2.0%2B1.20.1-forge.jar"
+hash-format = "sha512"
+hash = "e30f64c3e98eb40edc2897a1008b86e76888a0136f90a68a9d0ec11e0f1eab3cc74e1706b2e02f9e9e537ee8c2d057b965e73a87f785293afa3837f65da1f896"
 
 [update]
-[update.curseforge]
-file-id = 9528596
-project-id = 1161795
+[update.modrinth]
+mod-id = "xaXWiLzT"
+version = "d6iAfx85"

@@ -1,8 +1,12 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/Japanish-1.20.1-0.8.1.jar"
+hash = "7305bd181100cd122de243c4ddac34f0b36c43092f7a1e6ef2fa8555eff9af74"
+
+[[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "5e9edd1fd2395f14a0c8a4acbdbdd61e1047be1f0033deb3140d2ce0d093e9d8"
+hash = "4e81241ba2da06f425efc5e09fb6b38470125c1581c39e1310c5843a0b96ec76"
 metafile = true
 
 [[files]]
@@ -11,7 +15,7 @@ hash = "415b2a4c5fa470271462ba89c88a83e7d7bfd263ac40dd0f7d87a31ebc282525"
 
 [[files]]
 file = "mods/clicksigns.pw.toml"
-hash = "64e2f72ec6d08e34881fb1048e0718daac15cea750849e436a79dd2dd77bfd1d"
+hash = "7536f762b7108949fbc50d438d98e1fc65d85be9e4790d793a7311b95fa0b887"
 metafile = true
 
 [[files]]
@@ -45,23 +49,17 @@ hash = "a06a97ba002c875926da3c83ef2027388c4e8a66e01b8bf1fd3d69be54bd6e64"
 metafile = true
 
 [[files]]
+file = "mods/gamingfurniture-g5-x128-forge-1.20.1.jar"
+hash = "4a6db33a2d56459005fca45831ce4a7d99df37b82de738eca5c5be73b77c8fed"
+
+[[files]]
 file = "mods/geckolib.pw.toml"
-hash = "898fd2704dd260ae8f3dc20b4416439751f0a9e76367c4f0bbdac886b6987802"
+hash = "7ffae05c3b8101588b231db8116c34b36a77a0c6e6d7e6af867ae1c5b47e4d10"
 metafile = true
 
 [[files]]
 file = "mods/handcrafted.pw.toml"
 hash = "b9a7e71472f5f88229bf2f9e214b223b3900052bdc56075906d7a22acf74568c"
-metafile = true
-
-[[files]]
-file = "mods/ideaminecreator-gaming-furniture.pw.toml"
-hash = "14725e7d3b072471c6b848cac31b5ce9ff2d841ee54e8441ebb2f03668235669"
-metafile = true
-
-[[files]]
-file = "mods/ideaminecreator-modern-furniture.pw.toml"
-hash = "dc628234a4ee8a0e3f905572a59db0bf93b56e5836629805d56bba1f13ad49db"
 metafile = true
 
 [[files]]
@@ -75,14 +73,13 @@ hash = "1e3f6e2f9eade41c4dc146ca7e51964352bfba33e55ad12841debfffe2e1e89e"
 metafile = true
 
 [[files]]
-file = "mods/japanish.pw.toml"
-hash = "6482879affe2cf8b4b0082e74b9dacfd29119640580525c311aae0c27c67cf9f"
+file = "mods/japaniture.pw.toml"
+hash = "a173316756436b0776f5f2d1390afc8c5864bf5495d8744aecb8bccf251c0da3"
 metafile = true
 
 [[files]]
-file = "mods/japanituremod.pw.toml"
-hash = "c5c573408d20f60c5f50cff5013a171f66965382432af0777ceba989c61f4a0d"
-metafile = true
+file = "mods/japanituremod-forge-4.0.1.jar"
+hash = "0612593e0c933d6db08779acda103fc99460960a1d2b9c73e26f6c796656cef9"
 
 [[files]]
 file = "mods/japansuburbia.pw.toml"
@@ -101,7 +98,7 @@ metafile = true
 
 [[files]]
 file = "mods/kaminari-motor-works.pw.toml"
-hash = "3b95b426736fd5aad6e1e94b9a82cb25c0713168c0b8cf7ef0e77d28e3d31a82"
+hash = "965cfd1af10110a4835d796ddc6002aae9c4b8b6f59be655f3d6c161230885a3"
 metafile = true
 
 [[files]]
@@ -183,6 +180,10 @@ metafile = true
 file = "mods/modernfix.pw.toml"
 hash = "acc876b088c1e1208ac1a7494794060534ff4647411eae7139295a68fd0a48cd"
 metafile = true
+
+[[files]]
+file = "mods/modernfurniture-e5-x128-forge-1.20.1.jar"
+hash = "58d8163b62301647b96fd62011a8b1ad6173d2323bb41b8372333c784851a77e"
 
 [[files]]
 file = "mods/modernjapancity.pw.toml"

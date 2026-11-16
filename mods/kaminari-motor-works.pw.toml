@@ -1,13 +1,8 @@
-name = "Kaminari Motor Works [KMW] - Immersive Vehicles content pack"
-filename = "Kaminari Motor Work 2.6.1 16-20.jar"
+name = "kaminari-motor-works"
+filename = "Kaminari.Motor.Work.2.6.1.16-20.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "966ea300bb319d4c47df09a14134ac0e20ee5c42"
-mode = "metadata:curseforge"
-
-[update]
-[update.curseforge]
-file-id = 6549423
-project-id = 427473
+url = "https://github.com/tetsu1788/JMCMODPack-main/releases/download/JMC/Kaminari.Motor.Work.2.6.1.16-20.jar"
+hash-format = "sha256"
+hash = "75ceba3502d286796ac733f63fd5b351678b44b4e9da01cf6fedc1b9895af8be"
