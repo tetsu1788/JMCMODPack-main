@@ -318,3 +318,75 @@ metafile = true
 file = "mods/yuushya-townscape.pw.toml"
 hash = "06bdf7a72751fcdfe0b6f517f9c497bb25045663994359e84c9ba9817d26625b"
 metafile = true
+
+[[files]]
+file = "resourcepack/DEWON-E7-W7-2.0-MTR4.zip"
+hash = "6a6d6c0910a4b8d58974fa37259ec7f21729a75761bb519fe5a620c8bc1d93e9"
+
+[[files]]
+file = "resourcepack/DEWON-N700_&_Kamome-4.0-MTR4.zip"
+hash = "b391e24e931b9cca185995b6fadf912ed64b59e8e7d48009f7905f168a5581ac"
+
+[[files]]
+file = "resourcepack/Hankyu_9000_Series_V1.1.1.zip"
+hash = "aee332bf7e045dcccc392fe34c84289ead1f8db440290a3775e82ebbe1b19ca8"
+
+[[files]]
+file = "resourcepack/Henoke Japanese BusPack V1.1.zip"
+hash = "26ac23b4f5f644511a7292e4c6990367a3422219fd830e58abe3bd083216427c"
+
+[[files]]
+file = "resourcepack/IVR - Japan Sign Pack v.1.1.0.zip"
+hash = "ff14012dbbae950d70c7df7a51f1bf505ddb95095748db6d268997e9bc2c3c76"
+
+[[files]]
+file = "resourcepack/JR_East_E217_Series_v1.8.zip"
+hash = "2c14d350c00051e30d4598e272b81c91bab280c31751d65847a813ae792fd6ea"
+
+[[files]]
+file = "resourcepack/JR_East_E235_Series_v1.9.zip"
+hash = "188813cc480be6ca4c99e45c856968bef574125b5a30700b092484b55f0cb81c"
+
+[[files]]
+file = "resourcepack/Japan_Style_PIDS日式PIDSv1.0.6.zip"
+hash = "cc09986cecb0d714ab98ed04ceca8cea6091049b970fd55332d947417ad72c9e"
+
+[[files]]
+file = "resourcepack/Japanese_AccessoriesV1.5.zip"
+hash = "9bcf7d07f4d8e7b9a1d53d892f289199d19bb637552a1c992da15edd2e6ed61f"
+
+[[files]]
+file = "resourcepack/Japanese_PIDS v2.0.1.zip"
+hash = "b63ffae204aa1160ec746d0b769c78bb56f66a550cccc549d693db68ddda66dd"
+
+[[files]]
+file = "resourcepack/Keikyu_N1000_Series_v1.2.zip"
+hash = "71e318ef30620cd89497b7df986d4e146eb2b73032ad455fbe3751f313caa3a1"
+
+[[files]]
+file = "resourcepack/MTR_srt_JRTrains_4.0_251012.zip"
+hash = "d011163a7fda37c51c151dcf9ddbc965ed1c50f327c6c7acbd31144faad8fa28"
+
+[[files]]
+file = "resourcepack/Raincity_D.zip"
+hash = "f476d8e21bed4647d7e47c2e998cca42a7f054eebd7f28db4f1287426b33f3b6"
+
+[[files]]
+file = "resourcepack/TWR_71-000_Series_V1.5.zip"
+hash = "d84122b833a082ea4de4a90abf5e41a22b0cce580f8a480f099921b8e6b97fd4"
+
+[[files]]
+file = "resourcepack/[1.21] HayaKoh's_station_clicksign 2-0-0.zip"
+hash = "7a7c2c7a2be3cb7ee5a56be99787e6efcd6589397021d91ae156c1ff2b205961"
+
+[[files]]
+file = "resourcepack/[MTR]413series.zip"
+hash = "a970f3c1b3edd72c33ebc409f90b5e73e5b016e7fae4677f7edc3e8adace19c9"
+
+[[files]]
+file = "resourcepack/[MTR]shimannamon_rail.zip"
+hash = "6f3f42f5bdb7fcd8d382d34a2befcde720f2e8b6b1e4f5d0be21941a8e7c024c"
+
+[[files]]
+file = "resourcepack/botamochi129_Rail_Structure_Pack_v.1.5_mtr4.zip"
+hash = "fc83f401d594f258d5dc26e272303a7d7cfce09b833e5774ffcd588fd639088e"
