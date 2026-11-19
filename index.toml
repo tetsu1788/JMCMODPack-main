@@ -296,7 +296,7 @@ metafile = true
 
 [[files]]
 file = "mods/wablock.pw.toml"
-hash = "89260ce1c5b9e1cb577bcb8738b553a0f3f4c5621be9ec4445ab4f0fd19e5489"
+hash = "2f86cb04f761c1b805a9ad704dfa0fd299634be71a21af35557ec00b64ca3bf8"
 metafile = true
 
 [[files]]
