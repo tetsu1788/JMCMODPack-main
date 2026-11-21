@@ -230,6 +230,11 @@ hash = "5ef885f9912ff6aa73db254b63a3cd22520f06261bc3c38e7c92f449806a9044"
 metafile = true
 
 [[files]]
+file = "mods/patchouli.pw.toml"
+hash = "b2cb681aaf3e6085148392a06d40899239dc299aaf5ce0adf168fc225d922c97"
+metafile = true
+
+[[files]]
 file = "mods/phone-mc-device.pw.toml"
 hash = "52d52b6b948d130f6b2dd2091a705e78ad8017fe324fb8de9eaba7f468304a14"
 metafile = true
@@ -292,6 +297,11 @@ metafile = true
 [[files]]
 file = "mods/transport-simulator-official-vehicle-set.pw.toml"
 hash = "fd5edfd59aadb46cf1316882ee7333503f4fd6ef71e375bb5df005c2a37bece9"
+metafile = true
+
+[[files]]
+file = "mods/urushi-mod.pw.toml"
+hash = "3c2dd8d33384ab29a9a0a2222cec62a87c6b36d112381a17ae5577f67071e6c9"
 metafile = true
 
 [[files]]

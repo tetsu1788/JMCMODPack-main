@@ -1,0 +1,13 @@
+name = "Urushi"
+filename = "urushi-1.20.1-6.7.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5f9be08bf26b7750029aed63d7d4c20688e7065f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9235710
+project-id = 585890
